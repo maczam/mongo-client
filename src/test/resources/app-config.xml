@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<appName>app03</appName>
+	<appVersion>1.0.0</appVersion>
+	<serviceName>app03</serviceName>
+	<systemService>true</systemService>
+	
+	<appId>aaaa</appId>
+	<tables>f,j_app_new</tables>
+	<tenantId>123</tenantId>
+	
+	<!-- 支持配置 mongo_host,mongo_port,mongo_dbname,mongo_autoConnectRetry,mongo_connectionsPerHost,mongo_maxWaitTime,mongo_socketTimeout,mongo_connectTimeout,mongo_threadsAllowedToBlockForConnectionMultiplier -->
+    <mongo_host>172.16.40.5</mongo_host>
+    <mongo_port>27017</mongo_port>
+    <mongo_dbname>jmp</mongo_dbname>
+</config>
