@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter03.idgenerate;
+package info.hexin.example.chapter03.idgenerate;
 
 import java.util.concurrent.atomic.AtomicLong;
 

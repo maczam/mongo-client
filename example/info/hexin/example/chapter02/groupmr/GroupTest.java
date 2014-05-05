@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter02.groupmr;
+package info.hexin.example.chapter02.groupmr;
 
 import java.util.List;
 

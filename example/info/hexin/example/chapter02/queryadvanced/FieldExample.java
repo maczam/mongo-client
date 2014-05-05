@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter02.queryadvanced;
+package info.hexin.example.chapter02.queryadvanced;
 
 import java.util.List;
 import java.util.Map;

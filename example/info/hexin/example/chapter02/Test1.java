@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter02;
+package info.hexin.example.chapter02;
 
 import java.util.List;
 import java.util.Map;

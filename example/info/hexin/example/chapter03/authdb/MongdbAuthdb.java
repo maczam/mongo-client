@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter03.authdb;
+package info.hexin.example.chapter03.authdb;
 
 import info.hexin.mongo.client.auth.AuthDB;
 import info.hexin.mongo.client.core.dao.MongoDao;

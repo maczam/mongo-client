@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter02.faq;
+package info.hexin.example.chapter02.faq;
 
 import org.junit.Test;
 

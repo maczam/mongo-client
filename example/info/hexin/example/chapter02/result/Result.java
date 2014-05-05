@@ -1,4 +1,4 @@
-package info.hexin.mongo.example.chapter02.result;
+package info.hexin.example.chapter02.result;
 
 
 import org.junit.Assert;
